@@ -1,0 +1,116 @@
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-28 01:57:55 -0500
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.3ms)
+
+
+Started GET "/assets/test.js" for 127.0.0.1 at 2011-07-28 01:58:02 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/test.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-07-28 02:00:21 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/javascripts/application.js" for 127.0.0.1 at 2011-07-28 02:00:37 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/javascripts/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-07-28 02:00:41 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/application.js" for 127.0.0.1 at 2011-07-28 02:12:52 -0500
+
+ActionController::RoutingError (No route matches [GET] "/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.6ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-07-28 02:12:59 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-07-28 02:13:03 -0500
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-28 02:18:36 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 117ms (Views: 116.8ms)
+
+
+Started GET "/javascripts/application.js" for 127.0.0.1 at 2011-07-28 02:18:36 -0500
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/stylesheets/application.css" for 127.0.0.1 at 2011-07-28 02:18:37 -0500
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/javascripts/home.js" for 127.0.0.1 at 2011-07-28 02:18:37 -0500
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/home.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-28 02:18:40 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 6ms (Views: 5.9ms)
+
+
+Started GET "/javascripts/home.js" for 127.0.0.1 at 2011-07-28 02:18:45 -0500
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/home.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/javascripts/application.js" for 127.0.0.1 at 2011-07-28 02:18:48 -0500
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/application.js"):
+  
+
+  Rendered /Users/guille/.rvm/gems/ruby-1.9.2-p290/bundler/gems/rails-8248052ee744/actionpack/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
