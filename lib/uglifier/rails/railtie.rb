@@ -5,7 +5,7 @@ class Uglifier
     class Railtie < ::Rails::Railtie
       initializer :setup_compressor do |app|
         if app.config.assets.compress
-          app.config.assets.js_compressor = Uglifier.new
+          app.config.assets.js_compressor = :uglifier
         end
       end
     end
