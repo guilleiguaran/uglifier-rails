@@ -13,8 +13,8 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = "uglifier-rails"
 
-  s.add_runtime_dependency 'uglifier',    '>= 1.0.0'
-  s.add_runtime_dependency 'railties',    '~> 4.0.0.beta'
+  s.add_runtime_dependency 'uglifier',    '>= 1.2.0'
+  s.add_runtime_dependency 'railties',    '>= 3.2.0.beta'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")

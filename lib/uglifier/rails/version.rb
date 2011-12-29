@@ -1,5 +1,5 @@
 class Uglifier
   module Rails
-    VERSION = "4.0.0.beta1"
+    VERSION = "3.2.0.rc2"
   end
 end
